@@ -1,4 +1,4 @@
-# HOP ON (For DeltaHacks 2025)
+# HOP ON
 # Overview 
 This repository contains the source code for "Hop On" a ride-sharing web application specifically designed for university students. The project allows users to connect as riders or drivers for a safe and efficient ride-sharing experience. Built using React.js for the frontend and Python (Flask) for the backend, the application provides essential functionalities like user authentication, ride booking, and driver management. This project serves as a learning exercise in developing a full-stack application integrating modern web technologies.
 
