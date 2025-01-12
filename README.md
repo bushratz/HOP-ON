@@ -32,7 +32,7 @@ Python (Flask): Lightweight and robust backend framework.
 
 * Additional Libraries:
 
-Auth0: For authentication of students to use under their university domain
+CSS: For styling
 
 
 # Installation
