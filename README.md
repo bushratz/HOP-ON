@@ -8,35 +8,32 @@ This repository contains the source code for "Hop On" a ride-sharing web applica
 
 **User Authentication:** Secure login and registration for students and drivers, verified with a university email domain.
 
-- Ride Booking: Riders can book rides by specifying their destination.
+**Ride Booking:** Riders can book rides by specifying their destination.
 
-Real-time Updates: Notifications for ride acceptance and driver availability.
+**Real-time Updates:** Notifications for ride acceptance and driver availability.
 
-Ride Management: View history and status of rides.
+**Ride Management:** View history and status of rides.
 
 * Driver Features
 
-Driver Availability: Drivers can manage their availability for ride requests.
+**Driver Availability:** Drivers can manage their availability for ride requests.
 
-Ride Requests: Accept or reject ride requests from users.
+**Ride Requests:** Accept or reject ride requests from users.
 
 # Technologies Used
 
 * Frontend:
 
-React.js: Dynamic user interface for seamless navigation.
+**React.js:** Dynamic user interface for seamless navigation.
 
-Backend:
+* Backend:
 
-Python (Flask): Lightweight and robust backend framework.
-
-REST API: For communication between frontend and backend.
+**Python (Flask):** Lightweight and robust backend framework.
 
 Additional Libraries:
 
-Axios: To manage API requests.
+Auth0: For authentication of students to use under their university domain
 
-Email Validation: Verification for university email domains.
 
 Installation
 
