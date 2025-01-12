@@ -6,9 +6,9 @@ This repository contains the source code for "Hop On" a ride-sharing web applica
 
 * User Features
 
-** User Authentication: Secure login and registration for students and drivers, verified with a university email domain.
+- User Authentication: Secure login and registration for students and drivers, verified with a university email domain.
 
-Ride Booking: Riders can book rides by specifying their destination.
+- Ride Booking: Riders can book rides by specifying their destination.
 
 Real-time Updates: Notifications for ride acceptance and driver availability.
 
